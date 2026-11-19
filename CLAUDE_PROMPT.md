@@ -1,0 +1,7 @@
+Open the extracted PaperBoat project in your execution sandbox. Read README.md and docs/reference-analysis.md. Run bash scripts/setup.sh and confirm its Hindi Kokoro synthesis, font and encoder checks actually pass. Install the required dependencies when this sandbox permits them. Report any missing dependency by name.
+
+Use fable-script and fable-director. If I attach a new reference, inspect its opening, middle, ending and audio specifications. Identify the recurring visual idea and where its meaning changes. If I give you a topic, use it. Otherwise choose an original everyday situation that can support a Hindi moral fable.
+
+Show three possible first shots with their opening lines, then select the one whose question the last image answers. Proceed directly to production. Write an original 45–65 second Hindi script, use one conversational male Kokoro hm_omega narrator, and give the protagonist one real setback to solve. Build the script, art and shot blocking for this new story in a separate episode folder. Keep the Meera example playable.
+
+Generate and measure the narration before locking scenes. Animate the decisive gesture, use a recurring prop and show the payoff visually. Render and inspect a short motion test, then finish the full 9:16, 30 fps film. Deliver the MP4, editable project ZIP, Hindi SRT, clean WAV, timed storyboard and verified export details. Never fill in analytics or claim a render that does not exist.

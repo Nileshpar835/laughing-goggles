@@ -1,0 +1,137 @@
+[
+  {
+    "shot": "cabinet",
+    "spoken": "मीरा के पास तेईस नावें थीं।",
+    "roman": "Meera ke paas teis naavein thi.",
+    "purpose": "Who owns these boats?",
+    "action": "Open on red paper hull. Pull back to all 23 boats behind glass.",
+    "speed": 1.03,
+    "pause": 0.18
+  },
+  {
+    "shot": "glass",
+    "spoken": "उनमें से एक ने भी कभी पानी नहीं छुआ था।",
+    "roman": "Ek ne bhi kabhi paani nahi chhua tha.",
+    "purpose": "Resolve the apparent contradiction visually.",
+    "action": "A drop tracks down the glass in front of the completely dry red boat.",
+    "speed": 1.0,
+    "pause": 0.45
+  },
+  {
+    "shot": "shelf",
+    "spoken": "जब भी मीरा नाव बनाती, पापा उसे अलमारी में रख देते।",
+    "roman": "Jab bhi Meera naav banati, Papa use almaari mein rakh dete.",
+    "purpose": "Give the father a concrete habit.",
+    "action": "Papa raises a paper boat toward the shelf as Meera watches.",
+    "speed": 1.05,
+    "pause": 0.12
+  },
+  {
+    "shot": "dad",
+    "spoken": "कहते, भीग गई तो खराब हो जाएगी।",
+    "roman": "Kehte, “Bheeg gayi toh kharaab ho jaayegi.”",
+    "purpose": "Make the habit sound loving.",
+    "action": "Papa glances from the boat to Meera, palm turned up.",
+    "speed": 1.0,
+    "pause": 0.27
+  },
+  {
+    "shot": "rain",
+    "spoken": "फिर एक दिन इतनी बारिश हुई कि गली में छोटी सी नदी बन गई।",
+    "roman": "Phir ek din itni baarish hui ki gali mein chhoti si nadi ban gayi.",
+    "purpose": "Put a tempting opportunity outside.",
+    "action": "Rain darkens the lane. Water ripples beneath a little arched bridge.",
+    "speed": 1.04,
+    "pause": 0.14
+  },
+  {
+    "shot": "ask",
+    "spoken": "मीरा ने पूछा, पापा, इनमें सबसे तेज़ कौन सी है?",
+    "roman": "Meera ne poochha, “Papa, inmein sabse tez kaun si hai?”",
+    "purpose": "Make the child ask the question the collection cannot answer.",
+    "action": "She looks up and holds out an empty palm.",
+    "speed": 0.98,
+    "pause": 0.35
+  },
+  {
+    "shot": "silence",
+    "spoken": "पापा ने तेईसों नावें देखीं। जवाब एक भी नहीं था।",
+    "roman": "Papa ne teison naavein dekhin. Jawaab ek bhi nahi tha.",
+    "purpose": "Hold on the cost of keeping everything safe.",
+    "action": "His eyes move from the cabinet to the rain.",
+    "speed": 1.0,
+    "pause": 0.5
+  },
+  {
+    "shot": "offer",
+    "spoken": "उन्होंने लाल वाली उठाई। आज पता करते हैं।",
+    "roman": "Unhone laal waali uthaai. “Aaj pata karte hain.”",
+    "purpose": "Pay the first question forward with a choice.",
+    "action": "Father offers Meera the red boat.",
+    "speed": 1.0,
+    "pause": 0.25
+  },
+  {
+    "shot": "launch",
+    "spoken": "मीरा ने उसे पानी पर रखा। दो पल तो वो खूब चली।",
+    "roman": "Meera ne use paani par rakha. Do pal toh woh khoob chali.",
+    "purpose": "Let the audience root for the first launch.",
+    "action": "A hand lowers the red boat. It leaves concentric ripples.",
+    "speed": 1.02,
+    "pause": 0.2
+  },
+  {
+    "shot": "leaf",
+    "spoken": "फिर एक पत्ता अटका। नाव एक तरफ झुक गई।",
+    "roman": "Phir ek patta atka. Naav ek taraf jhuk gayi.",
+    "purpose": "Interrupt the expected easy victory.",
+    "action": "A gold leaf snags at the bow and tips the hull.",
+    "speed": 1.0,
+    "pause": 0.25
+  },
+  {
+    "shot": "help",
+    "spoken": "पापा का हाथ बढ़ा। मीरा बोली, एक मिनट।",
+    "roman": "Papa ka haath badha. Meera boli, “Ek minute.”",
+    "purpose": "Repeat the protective gesture and interrupt it.",
+    "action": "A large hand reaches in and pauses over the listing boat.",
+    "speed": 1.0,
+    "pause": 0.32
+  },
+  {
+    "shot": "fix",
+    "spoken": "उसने गीला कोना ऊपर मोड़ा। पत्ता छूटा।",
+    "roman": "Usne geela kona oopar moda. Patta chhoota.",
+    "purpose": "Give agency to the child.",
+    "action": "Small fingers lift the folded bow. The leaf peels away.",
+    "speed": 0.98,
+    "pause": 0.25
+  },
+  {
+    "shot": "sail",
+    "spoken": "इस बार नाव सीधे पुल के नीचे से निकल गई।",
+    "roman": "Is baar naav seedhe pul ke neeche se nikal gayi.",
+    "purpose": "Answer the practical question with action.",
+    "action": "Track the red boat as it passes through the low bridge.",
+    "speed": 1.01,
+    "pause": 0.42
+  },
+  {
+    "shot": "photo",
+    "spoken": "अगली सुबह, लाल नाव की जगह एक फोटो लगी थी।",
+    "roman": "Agli subah, laal naav ki jagah ek photo lagi thi.",
+    "purpose": "Return to the opening cabinet and change one detail.",
+    "action": "A matted photo stands in the gap left by the red boat.",
+    "speed": 0.98,
+    "pause": 0.25
+  },
+  {
+    "shot": "last",
+    "spoken": "पीछे पापा की लिखावट थी। आज मेरी बेटी ने मुझे नाव चलाना सिखाया।",
+    "roman": "Peechhe Papa ki likhaavat thi. “Aaj meri beti ne mujhe naav chalaana sikhaaya.”",
+    "purpose": "The parent has learned something too.",
+    "action": "Turn the photo over to reveal the note and a tiny drawing of a boat.",
+    "speed": 0.96,
+    "pause": 0.95
+  }
+]
